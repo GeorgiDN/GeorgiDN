@@ -1,4 +1,4 @@
-### Hello, I'm Georgi Nikolov! 👋
+### Hi, I'm Georgi Nikolov! 👋
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:go6odn28@gmail.com)
 
