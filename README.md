@@ -8,7 +8,8 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GeorgiDN)](https://git.io/streak-stats)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GeorgiDN)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiDN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
